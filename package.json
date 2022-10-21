@@ -1,0 +1,16 @@
+{
+"name": "homming74",
+"theme": "homming74",
+"version": "2.7.5",
+"description": "homming74 สมัครเว็บไซต์แทงบอลเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+"keywords": [
+"homming74",
+"homming74 เครดิตฟรี",
+"homming74 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/homming74",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
